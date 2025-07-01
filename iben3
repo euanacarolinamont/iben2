@@ -1,14 +1,10 @@
-<table style="width:100%; background-color:#0E5656; padding: 20px; border-radius: 12px; font-family: Arial, sans-serif; color: white;">
+<table style="width: 100%; background-color: #0E5656; padding: 20px; border-radius: 12px 12px 0 0; font-family: Arial, sans-serif;">
   <tr>
-    <td style="width:50%; vertical-align: middle;">
-      <img src="LINK_DO_LOGO_IBEN" alt="iBen" style="height:40px; margin-right: 20px;">
-      <img src="LINK_DO_LOGO_GPCI" alt="GPCI Empreendimentos" style="height:40px;">
+    <td style="width: 50%; vertical-align: middle;">
+      <img src="LINK_DO_LOGO_IBEN" alt="Logo iBen" style="height: 40px;">
     </td>
-    <td style="width:50%; text-align: right; font-size: 12px;">
-      <strong>iBen Engenharia</strong> – Construtora responsável pela obra<br>
-      <strong>GPCI Empreendimentos</strong> – Incorporadora responsável pelo projeto<br>
-      Este e-mail é informativo. Para dúvidas, entre em contato via <a href="mailto:contato@iben.com.br" style="color: #fff; text-decoration: underline;">contato@iben.com.br</a><br>
-      © 2025 iBen Engenharia e GPCI Empreendimentos. Todos os direitos reservados.
+    <td style="width: 50%; text-align: right; vertical-align: middle;">
+      <img src="LINK_DO_LOGO_GPCI" alt="Logo GPCI Empreendimentos" style="height: 40px;">
     </td>
   </tr>
 </table>
